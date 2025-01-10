@@ -16,7 +16,7 @@ This project demonstrates object and sub-object detection in videos with hierarc
    ```
 
 3. **Outputs**:
-   - JSON output: Saved in the `results/` folder as `detections.json`.
+   - JSON output: Saved in the `output/` folder as `detections.json`.
    - Cropped images: Not implemented yet (placeholder in code).
 
 ## Notes
